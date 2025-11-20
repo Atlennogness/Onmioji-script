@@ -1,0 +1,2 @@
+# Onmioji-script
+Onmioji script
