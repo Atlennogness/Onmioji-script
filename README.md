@@ -3,7 +3,7 @@ Beta
 这是一份使点击时间基于柏林噪声，移动轨迹基于三次贝塞尔曲线和仿人类函数的鼠标连点器python脚本；
 
 脚本安装方法：
-自行在https://www.python.org/downloads/latest/python3.10/下载python，版本最好是3.10；
+自行在https://www.python.org/downloads/latest/python3.10/ 下载python，版本最好是3.10；
 点击文件中的“Base Instal.bat"文件来安装或卸载两个必要的python库；
 双击”Start Scrip.bat"，或者，使用VS Code打开后缀为py的执行文件并信任，信任后右上角会出现一个三角形的按钮，点击它以运行此脚本。
 
