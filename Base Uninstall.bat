@@ -1,1 +1,1 @@
-pip install pyautogui keyboard
+pip uninstall pyautogui keyboard
