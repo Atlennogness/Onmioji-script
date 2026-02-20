@@ -12,3 +12,6 @@ Beta
 ！警告！ -无法保证百分百不被封！ 
 -文件仅供学习交流使用，请于下载后24h删除。 
 使用即意味着由你承担责任，原作者不承担任何因你使用本脚本而可能造成的法律责任及个人损失。
+
+
+<img width="893" height="541" alt="把按键设在这里就可以了" src="https://github.com/user-attachments/assets/acf636e8-1d37-4e7e-8513-baa9bbb24fb9" />
