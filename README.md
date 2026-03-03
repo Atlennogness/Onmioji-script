@@ -30,7 +30,7 @@ Script Usage: 1. Move your mouse to the designated position in the game. 2. Pres
 使用即意味着由你承担责任，原作者不承担任何因你使用本脚本而可能造成的法律责任及个人损失。
 
 !WARNING! - 100% safety from bans cannot be guaranteed!
-- This file is for educational purposes only. Please delete it within 24 hours of download.
+This file is for educational purposes only. Please delete it within 24 hours of download.
 By using this script, you assume full responsibility. The original author shall not be held liable for any legal consequences or personal losses resulting from your use of this script.
 
 <img width="893" height="541" alt="把按键设在这里就可以了" src="https://github.com/user-attachments/assets/acf636e8-1d37-4e7e-8513-baa9bbb24fb9" />
