@@ -29,7 +29,7 @@ Script Usage: 1. Move your mouse to the designated position in the game. 2. Pres
 -文件仅供学习交流使用，请于下载后24h删除。 
 使用即意味着由你承担责任，原作者不承担任何因你使用本脚本而可能造成的法律责任及个人损失。
 
-!WARNING! - 100% safety from bans cannot be guaranteed!
+!WARNING! -cannot be guaranteed 100% safety from bans !
 This file is for educational purposes only. Please delete it within 24 hours of download.
 By using this script, you assume full responsibility. The original author shall not be held liable for any legal consequences or personal losses resulting from your use of this script.
 
